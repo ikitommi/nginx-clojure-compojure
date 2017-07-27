@@ -2,7 +2,7 @@
 
 ## Usage
 
-```
+```clj
 lein repl
 (require '[c.handler :as c])
 (c/start-servers)
